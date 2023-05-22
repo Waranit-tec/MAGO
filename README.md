@@ -45,3 +45,6 @@ https://drive.google.com/drive/folders/1iKAPTJgQHKGy-M24Ly6dSbCKszNJJHnQ?usp=sha
 ![screencapture-localhost-3000-blog-single-html-2023-05-17-21_54_17](https://github.com/Panixara/MAGO/assets/93992468/6045cab0-ba65-466a-9e2c-419744020014)
 ![screencapture-localhost-3000-cart-html-2023-05-17-21_54_28](https://github.com/Panixara/MAGO/assets/93992468/6f2394c6-a11b-47b9-add5-50568d780021)
 ![screencapture-localhost-3000-login-html-2023-05-17-21_54_51](https://github.com/Panixara/MAGO/assets/93992468/de1f12a4-dce7-45c9-81fd-25621ad3a772)
+
+### Credit By Aviato themfisher
+https://github.com/themefisher/aviato
